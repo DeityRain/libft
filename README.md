@@ -8,15 +8,6 @@ This repository contains three core C projects developed as part of the 42 curri
 
 ---
 
-## 📂 Project Structure
-
-.
-├── libft.h # Main header file containing all prototypes
-├── *.c # Source files for libft, ft_printf, and get_next_line
-└── Makefile # (optional) to compile the library
-
----
-
 ## 🛠 Compilation
 
 To compile everything into a static library:
