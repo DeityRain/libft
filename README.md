@@ -24,7 +24,7 @@ gcc my_program.c -L. -lft
 
 
 1. Libft Functions
-
+```
 Function	Description
 
 ft_isdigit	Checks if a character is a decimal digit.
@@ -78,7 +78,6 @@ ft_pointer_handler	Handles %p specifier.
 ft_conv_handler		Dispatches to the correct handler based on format specifier.
 ft_is_specificator	Checks if a character is a valid format specifier.
 
-
 3. get_next_line Functions
 
 Function	Description
@@ -90,7 +89,7 @@ Constants:
     BUFFER_SIZE (default: 42) – Number of bytes read at a time.
 
     FD_MAX (default: 1024) – Maximum number of file descriptors supported.
-
+```
 ---
 
 📌 Usage Examples
